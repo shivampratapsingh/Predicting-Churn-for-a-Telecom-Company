@@ -9,5 +9,7 @@ So, it is very important to predict the users likely to churn from the business 
 Here I am going to show how logistic regression model using R can be used to identify the customer churn in the telecom dataset.
 
 Link to datasets:
+
 Train: https://s3.amazonaws.com/hackerday.datascience/104/Telecom_Train.csv/
+
 Test: https://s3.amazonaws.com/hackerday.datascience/104/Telecom_Test.csv/
